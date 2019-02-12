@@ -1,0 +1,6 @@
+framework module Pods_sqliteInSwiftTests {
+  umbrella header "Pods-sqliteInSwiftTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
