@@ -1,6 +1,0 @@
-framework module Pods_sqliteInSwift {
-  umbrella header "Pods-sqliteInSwift-umbrella.h"
-
-  export *
-  module * { export * }
-}
